@@ -2,7 +2,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyouga-murase&theme=flag_india" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyouga-murase&theme=flag_india" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyouga-murase&show_icons=true&locale=en&layout=compact" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyouga-murase&theme=flag_india " />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyouga-murase&theme=flag_india" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyouga-murase&theme=flag_india" />
   <img src="https://github-profile-trophy.vercel.app/?username=hyouga-murase" />
 </p>
 
